@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065651584057",
+    "project_id": "hr-dispatcher",
+    "storage_bucket": "hr-dispatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065651584057:android:b8236995e7d1fcf39461e8",
+        "android_client_info": {
+          "package_name": "com.srhdp.hr_dispatcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02lIVwgixYE2Pk_I1rKGjbSB-hjpw1Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

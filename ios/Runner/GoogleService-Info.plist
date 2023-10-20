@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDe05Dvh_L9HJe81ZcMhgo2xCwy2v4Li2I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1065651584057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.srhdp.hr-dispatcher</string>
+	<key>PROJECT_ID</key>
+	<string>hr-dispatcher</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hr-dispatcher.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1065651584057:ios:687f3c3a9ab9adb59461e8</string>
+</dict>
+</plist>
