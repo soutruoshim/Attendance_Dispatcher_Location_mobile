@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 class Constant {
-  static const production = "https://hr.islamic-forum-kh.com/";
+  static const production = "https://hr-dispatch.online/";
 
   /**
    * Change value based on your need.
