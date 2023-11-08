@@ -43,7 +43,7 @@ class PaySlipDetailScreen extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Cyclone Nepal Infotech',
+                          'SrhDP, Phnom Penh',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,
@@ -53,11 +53,11 @@ class PaySlipDetailScreen extends StatelessWidget {
                           height: 10,
                         ),
                         Text(
-                          'Sankhamul, Kathmandu, Nepal',
+                          'SrhDP, Phnom Penh Cambodia',
                           style: TextStyle(color: Colors.white54, fontSize: 15),
                         ),
                         Text(
-                          'Cyclone Nepal Infotech',
+                          'SrhDP, Phnom Penh',
                           style: TextStyle(color: Colors.white54, fontSize: 15),
                         ),
                       ],

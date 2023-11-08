@@ -249,7 +249,7 @@ class loginScreenState extends State<LoginScreen> {
 
   openBrowserTab() async {
     await FlutterWebBrowser.openWebPage(
-      url: "https://hr.islamic-forum-kh.com/password/reset",
+      url: "https://hr-dispatch.online/password/reset",
       customTabsOptions: const CustomTabsOptions(
         colorScheme: CustomTabsColorScheme.dark,
         shareState: CustomTabsShareState.on,
