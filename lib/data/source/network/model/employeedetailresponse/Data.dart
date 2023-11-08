@@ -39,7 +39,7 @@ class Data {
       gender: json['gender'],
       joining_date: json['joining_date'],
       name: json['name'],
-      phone: json['phone'],
+      phone: json['phone'].toString(),
       post: json['post'],
       user_type: json['user_type'],
       username: json['username'],

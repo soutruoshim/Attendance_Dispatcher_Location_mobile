@@ -7,7 +7,7 @@ class Data {
   factory Data.fromJson(Map<String, dynamic> json) {
     return Data(
       dept_name: json['dept_name'],
-      id: json['id'],
+      id: json['id'].toString(),
     );
   }
 
